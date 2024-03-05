@@ -1,0 +1,56 @@
+.parent3{
+    background-image: url(https://images.unsplash.com/photo-1504022462188-88f023db97bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    background-size: cover;
+    background-repeat: round;
+    background-color: rgba(0, 0, 0, 0.418);
+  
+  
+    height: 580px;
+}
+
+.formholder2{
+    padding-top: 20px;
+}
+
+.formlogin{
+    border: 2px solid rgb(255, 255, 255);
+    width: 50%;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 25%;  
+    background: rgb(255, 255, 255);
+    /* margin-top: 50px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+  text-transform: capitalize;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 30px;
+
+}
+.sec{
+    width: 50%;
+}
+.createHolder{
+  
+    margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.login{
+ /* width: 80%; */
+ margin-top: 20px;
+ display: grid;
+ grid-template-columns: auto ;
+ /* grid-gap: 5px;
+ grid-row: 20px; */
+ align-content: center;
+ margin-left: 15%;
+}
+
+.loginInput{
+    width: 80%;
+}
