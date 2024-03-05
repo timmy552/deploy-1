@@ -39,10 +39,7 @@ h1{
  align-content: center;
  margin-left: 10%;
 }
-/* .parent div{
-    /* display: grid;
-    grid-template-columns: auto auto; */
-/* } */ */
+
 label{
    text-transform: capitalize;
     font-size: 1em;
